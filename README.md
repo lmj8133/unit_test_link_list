@@ -14,7 +14,7 @@ Choose one to build your project, either qmake or cmake.
 
 - press ```Build```-> ```Run qmake```
 
-- press ```Start debuggin of startup project``` to run googletest
+- press ```Start debugging of startup project``` to run googletest
 
 ## CMake
 
