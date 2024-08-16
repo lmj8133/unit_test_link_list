@@ -25,3 +25,9 @@ Choose one to build your project, either qmake or cmake.
 ```cmake ..; make```
 
 ```ctest``` to run googletest
+
+# References
+
+**[GoogleTest User’s Guide](https://google.github.io/googletest/)**
+
+**[ctest User Manual](https://cmake.org/cmake/help/latest/manual/ctest.1.html)**
